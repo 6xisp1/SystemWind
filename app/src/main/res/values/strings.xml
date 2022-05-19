@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">bashkirov_opisanie</string>
+    <string name="strelka">TextView</string>
+    <string name="vector">TODO</string>
+    <string name="opisanie">Описание</string>
+    <string name="save">Сохранить</string>
+    <string name="clear">Очистить</string>
+    <string name="backtema">TODO</string>
+    <string name="vector">TODO</string>
+    <string name="sohranit">Button</string>
+    <string name="sohran">Сохранить</string>
+    <string name="save">Сохранить</string>
+    <string name="ochistit">очистить</string>
+    <string name="sohr">Сохранить</string>
+    <string name="ochist">Очистить</string>
+    <string name="systemlabel">Система</string>
+    <string name="chaspoyaslabel">Часовой пояс</string>
+    <string name="ntplabel">Сервер NTP</string>
+    <string name="maclabel">MAC-адрес</string>
+    <string name="keylabel">Ключ</string>
+    <string name="keyagainlabel">Повтор ключа</string>
+    <string name="identificatelabel">Идентификатор</string>
+    <string name="pinglabel">Ping запрещен</string>
+    <string name="refreshbtn">Обновить</string>
+    <string name="chaspoyaslabel">Часовой пояс</string>
+    <string name="localtimelabel">Локальное время ЛБ</string>
+    <string name="timeistchbtn">Источник времени</string>
+    <string name="timesostslujbilabel">Состояние службы времени</string>
+</resources>
